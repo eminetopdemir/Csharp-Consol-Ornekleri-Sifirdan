@@ -1,2 +1,2 @@
-# Csharp-Consol-Ornekleri-Sifirdan
-Csharp Consol Örnekleri Sıfırdan
+# Csharp-Consol-Ornekleri-Sifirdan (55 örnek)
+Csharp Consol Örnekleri Sıfırdan (55 örnek)
